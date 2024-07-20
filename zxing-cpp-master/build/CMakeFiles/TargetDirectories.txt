@@ -1,0 +1,11 @@
+E:/zxing-cpp-master/build/CMakeFiles/RUN_TESTS.dir
+E:/zxing-cpp-master/build/CMakeFiles/INSTALL.dir
+E:/zxing-cpp-master/build/CMakeFiles/ALL_BUILD.dir
+E:/zxing-cpp-master/build/CMakeFiles/ZERO_CHECK.dir
+E:/zxing-cpp-master/build/core/CMakeFiles/ZXing.dir
+E:/zxing-cpp-master/build/core/CMakeFiles/RUN_TESTS.dir
+E:/zxing-cpp-master/build/core/CMakeFiles/INSTALL.dir
+E:/zxing-cpp-master/build/example/CMakeFiles/ZXingWriter.dir
+E:/zxing-cpp-master/build/example/CMakeFiles/ZXingReader.dir
+E:/zxing-cpp-master/build/example/CMakeFiles/RUN_TESTS.dir
+E:/zxing-cpp-master/build/example/CMakeFiles/INSTALL.dir
