@@ -201,7 +201,7 @@ int main(int argc, char* argv[])
 	}
 
 	argc = 2;
-	argv[1] = "d:\\sample\\qr3.png";
+	argv[1] = "d:\\sample\\qr1.png";
 
 	std::cout.setf(std::ios::boolalpha);
 
