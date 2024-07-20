@@ -192,9 +192,6 @@ int main(int argc, char* argv[])
 	Barcodes allBarcodes;
 	int ret = 0;
 
-	argv[1] = "e:\\sample\\qr2.png";
-	argc = 2;
-
 	options.setTextMode(TextMode::HRI);
 	options.setEanAddOnSymbol(EanAddOnSymbol::Read);
 
