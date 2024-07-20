@@ -200,6 +200,9 @@ int main(int argc, char* argv[])
 		return -1;
 	}
 
+	argc = 2;
+	argv[1] = "d:\\sample\\qr2.png";
+
 	std::cout.setf(std::ios::boolalpha);
 
 	if (!cli.outPath.empty())
