@@ -206,6 +206,7 @@ int main(int argc, char* argv[])
 	std::cout.setf(std::ios::boolalpha);
 
 	//my code
+	//my code2
 
 	if (!cli.outPath.empty())
 		cli.forceChannels = 3; // the drawing code only works for RGB data
