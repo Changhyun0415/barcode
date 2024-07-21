@@ -213,7 +213,6 @@ int main(int argc, char* argv[])
 
 	// func1
 
-	// func2
 
 	if (!cli.outPath.empty())
 		cli.forceChannels = 3; // the drawing code only works for RGB data
