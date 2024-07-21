@@ -208,6 +208,8 @@ int main(int argc, char* argv[])
 	//my code
 	//my code2
 
+	// his code
+
 	if (!cli.outPath.empty())
 		cli.forceChannels = 3; // the drawing code only works for RGB data
 
